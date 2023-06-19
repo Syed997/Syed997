@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Syed997
-- 👀 I’m interested in Software Engineering.
+- 👀 I’m interested in Software Engineering, Web Development.
 - 🌱 I’m currently learning Web Developing.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "syednur.jim@gmail.com"
 
 <!---
