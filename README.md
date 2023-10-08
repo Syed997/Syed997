@@ -6,15 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/syednurjim" target="blank"><img src="https://img.shields.io/twitter/follow/syednurjim?logo=twitter&style=for-the-badge" alt="syednurjim" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://syednurarabbijim.netlify.app](https://syednurarabbijim.netlify.app)
 
-- 💬 Ask me about **Java,React, Web Development**
 
 - 📫 How to reach me **syednur.jim@gmail.com**
 
-- ⚡ Fun fact **Nothing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
