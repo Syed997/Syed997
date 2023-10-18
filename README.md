@@ -10,7 +10,7 @@
 - 👨‍💻 Portfolio: [https://syednurarabbijim.netlify.app](https://syednurarabbijim.netlify.app)
 
 
-- 📫 Mail **syednur.jim@gmail.com**
+- 📫 Mail: **syednur.jim@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
