@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Nur.A.Rabbi Jim</h1>
+<h1 align="center">Hi, I'm Syed Nur.A.Rabbi Jim</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/0*JHagKWo00UfFNNCV">
 
