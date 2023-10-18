@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/syednurjim" target="blank"><img src="https://img.shields.io/twitter/follow/syednurjim?logo=twitter&style=for-the-badge" alt="syednurjim" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://syednurarabbijim.netlify.app](https://syednurarabbijim.netlify.app)
+- 👨‍💻 Portfolio: [https://syednurarabbijim.netlify.app](https://syednurarabbijim.netlify.app)
 
 
 - 📫 How to reach me **syednur.jim@gmail.com**
