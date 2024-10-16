@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Syed Nur.A.Rabbi Jim</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer at RedDot Digital LTD.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/0*JHagKWo00UfFNNCV">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed997&label=Profile%20views&color=0e75b6&style=flat" alt="syed997" /> </p>
